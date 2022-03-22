@@ -23,3 +23,4 @@ This project was about make data sorted on a stack, with a limited set of instru
 
 Pipex.
 Pipex is a project that reproduces the behaviour of the shell pipe | command in C, using the pipe(), fork(), dup2() and execve() functions.
+The program launches as ./pipex infile cmd1 cmd2 outfile and behaves exactly as this line in the shell < infile cmd1 | cmd2 > outfile .
