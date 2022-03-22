@@ -22,3 +22,4 @@ Push_swap.
 This project was about make data sorted on a stack, with a limited set of instructions, using the lowest possible number of actions.
 
 Pipex.
+Pipex is a project that reproduces the behaviour of the shell pipe | command in C, using the pipe(), fork(), dup2() and execve() functions.
