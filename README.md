@@ -20,7 +20,3 @@ I made work with MiniLibX library, sprites, and some other very basic gameplay e
 
 Push_swap.
 This project was about make data sorted on a stack, with a limited set of instructions, using the lowest possible number of actions.
-
-Pipex.
-Pipex is a project that reproduces the behaviour of the shell pipe | command in C, using the pipe(), fork(), dup2() and execve() functions.
-The program launches as ./pipex infile cmd1 cmd2 outfile and behaves exactly as this line in the shell < infile cmd1 | cmd2 > outfile .
